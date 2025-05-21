@@ -17,4 +17,6 @@ pytest-asyncio==0.21.1
 
 # Optional UI
 streamlit==1.31.0
-# chainlit==0.7.700  # Uncomment if using Chainlit for UI 
+# chainlit==0.7.700  # Uncomment if using Chainlit for UI langchain
+langchain_community
+email-validator
